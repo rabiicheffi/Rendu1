@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\migrations\\20250409181153_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\migrations\\20250409181153_creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.applicationcore\\domain\\infirimier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\infirimier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|solutionrelative:examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.infrastructure\\examen.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\examen.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\user\\downloads\\compressed\\squeletteexamen\\rabiicheffi\\examen.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250409181153_creation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Migrations\\20250409181153_creation.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20250409181153_creation.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Migrations\\20250409181153_creation.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20250409181153_creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:11:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BilanConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:49:05.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laboratoire.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:44:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Analyse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Analyse.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Analyse.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Analyse.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Analyse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:42:44.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:30:42.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bilan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:41:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.UI.Console\\Program.cs",
+              "RelativeToolTip": "Examen.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:22:17.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:33:29.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:33:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infirimier.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Infirimier.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Infirimier.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Infirimier.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Infirimier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:37:11.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Examen.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Examen.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.Infrastructure\\Examen.Infrastructure.csproj",
+              "RelativeToolTip": "Examen.Infrastructure\\Examen.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T15:27:10.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Compressed\\SqueletteExamen\\RabiiCheffi\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:37:42.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
